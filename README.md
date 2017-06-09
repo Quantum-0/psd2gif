@@ -6,15 +6,15 @@
 
 Для установки достаточно просто запустить скрипт под рутом
 
-Скрипт предложить автоматически установить используемые библиотеки, а затем скопирует себя в /usr/bin для использования в терминале
+Скрипт предложить автоматически установит используемые библиотеки, а затем скопирует себя в /usr/bin для использования в терминале
 
 ## Использование
 
-psd2gif --psd SOURCE \[--gif DESTINATION] \[--delay DELAY] [--onlyvisible]
+> psd2gif --psd SOURCE \[--gif DESTINATION] \[--delay DELAY] [--onlyvisible]
 
 или
 
-psd2gif SOURCE \[DESTINATION] \[DELAY] [ONLYVISIBLE]
+> psd2gif SOURCE \[DESTINATION] \[DELAY] [ONLYVISIBLE]
 
 Где:
 * SOURCE - исходный PSD-файл
